@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyline Case Addin", "SkylineCase Addin\Skyline Case Addin.csproj", "{31822908-E55B-4E70-9014-4DE7E17F28B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31822908-E55B-4E70-9014-4DE7E17F28B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31822908-E55B-4E70-9014-4DE7E17F28B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31822908-E55B-4E70-9014-4DE7E17F28B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31822908-E55B-4E70-9014-4DE7E17F28B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2942758E-ED8E-450B-804A-BEC1AD8239EE}
+	EndGlobalSection
+EndGlobal
